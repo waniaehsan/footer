@@ -1,4 +1,4 @@
-import Navbar from ".././components/navbar";
+
 export default function About() {
   return (
     <div><h1>2009	4-Years B-TECH (Honors) in Electrical Technology, From Indus

@@ -1,4 +1,4 @@
-import Navbar from ".././components/navbar";
+
 export default function contactus() {
   return (
     <div><h1>Address: House No. L-318, Scheme 33, Diamond City, Karachi, Pakistan</h1>
